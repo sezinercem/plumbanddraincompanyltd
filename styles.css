@@ -418,6 +418,8 @@ img {
 }
 
 .service-card {
+  display: flex;
+  flex-direction: column;
   transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
@@ -448,6 +450,7 @@ img {
 .service-card a {
   color: var(--blue);
   font-weight: 900;
+  margin-top: auto;
 }
 
 .locations {
