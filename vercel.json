@@ -1,0 +1,41 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing.html",
+      "destination": "/plumbing/",
+      "permanent": true
+    },
+    {
+      "source": "/drainage-services.html",
+      "destination": "/drainage-services/",
+      "permanent": true
+    },
+    {
+      "source": "/driveway-cleaning.html",
+      "destination": "/driveway-cleaning/",
+      "permanent": true
+    },
+    {
+      "source": "/gutter-drain-clearance.html",
+      "destination": "/gutter-drain-clearance/",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/enquiries.html",
+      "destination": "/enquiries/",
+      "permanent": true
+    }
+  ]
+}
