@@ -1057,3 +1057,23 @@ textarea:focus {
     transition-duration: 0.001ms !important;
   }
 }
+
+.form-status {
+  margin: 0;
+  min-height: 1.5rem;
+  color: #17415a;
+  font-weight: 800;
+}
+
+.form-status.is-success {
+  color: #14764f;
+}
+
+.form-status.is-error {
+  color: #b42318;
+}
+
+.enquiry-form button:disabled {
+  cursor: wait;
+  opacity: 0.75;
+}
