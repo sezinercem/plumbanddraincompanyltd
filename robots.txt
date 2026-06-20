@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /dev/
 
-Sitemap: https://plumbinganddrainagecompany.co.uk/sitemap.xml
+Sitemap: https://www.plumbanddrain.com/sitemap.xml
